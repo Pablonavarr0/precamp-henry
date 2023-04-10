@@ -1,2 +1,1 @@
-# precamp-henry
-este es la prueba del modulo 2 de henry
+este repositorio es la prueba de como crear desde github un repositorio de la nube y copiarlo, para asi poder trabajar en el visual code y tener el repositor readme de la nuve
